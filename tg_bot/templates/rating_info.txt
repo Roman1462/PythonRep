@@ -1,0 +1,8 @@
+Названия фильма: <b>{name}</b>.
+
+Рейтинг кинопоиска: <b>{rating_kp}</b> (количество голосов <b>{votes_kp}</b>);
+Рейтинг IMDB: <b>{rating_imdb}</b> (количество голосов <b>{votes_imdb}</b>);
+Рейтинг TMDB: <b>{rating_tmdb}</b> (количество голосов <b>{votes_tmdb}</b>);
+Рейтинг кинокритиков: <b>{rating_filmCritics}</b> (количество голосов <b>{votes_filmCritics}</b>);
+Рейтинг кинокритиков из РФ: <b>{rating_russianFilmCritics}</b> (количество голосов <b>{votes_russianFilmCritics}</b>);
+Рейтинг основанный на ожиданиях пользователей: <b>{rating_await}</b> (количество голосов <b>{votes_await}</b>).
