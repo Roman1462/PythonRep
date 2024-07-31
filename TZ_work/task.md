@@ -1,11 +1,12 @@
-Если на Windows запускам в терминале команду .\venv\Scripts\activate 
+Создаем виртуальное окружение
+Если на Windows, то запускам в терминале команду .\venv\Scripts\activate ,на Линуксе ./env/bin/activate
 Запустится виртуальное окружение и появится (venv)
 Запустить в терминале команду запуска установленных пакетов:
 pip install -r requirements.txt
 
 ### Что сделано:
 
-Разработан API :
+ API :
 •  СУБД - SQLite python так как она легковестная и идет в коробке с python (под данную задачу подходит);
 •  python 3.11;
 •  fastapi  фреймворк;
@@ -32,6 +33,7 @@ pip install -r requirements.txt
 
 В терминале команда:
 Cnt + C - остановить сервер
+
 
 pip freeze > requirements.txt
 
